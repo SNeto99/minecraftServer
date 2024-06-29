@@ -1,168 +1,51 @@
-[07:24:39] [User Authenticator #156/INFO]: UUID of player _Dieguez_ is ef12e6ff-cd2a-3ce2-8dc7-a153e9ec0e01
-[07:24:43] [Server thread/INFO]: _Dieguez_ joined the game
-[07:24:43] [Server thread/INFO]: _Dieguez_[/179.167.44.84:50126] logged in with entity id 610477 at ([world]307.33280324649854, 98.0, 81.6500564641832)
-[07:24:52] [Server thread/WARN]: _Dieguez_ moved too quickly! -12.048247382300076,1.0,1.280028426546906
-[07:24:57] [Server thread/WARN]: _Dieguez_ moved too quickly! 8.340293610366814,0.16610926093821377,-5.671098429034316
-[07:35:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2622ms or 52 ticks behind
-[07:37:42] [Server thread/INFO]: _Dieguez_ lost connection: Disconnected
-[07:37:42] [Server thread/INFO]: _Dieguez_ left the game
-[11:58:29] [User Authenticator #157/INFO]: UUID of player _Dieguez_ is ef12e6ff-cd2a-3ce2-8dc7-a153e9ec0e01
-[11:58:33] [Server thread/INFO]: _Dieguez_ joined the game
-[11:58:33] [Server thread/INFO]: _Dieguez_[/179.167.44.84:64705] logged in with entity id 612386 at ([world]169.69999998807907, 69.0, 25.30000001192093)
-[11:58:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2526ms or 50 ticks behind
-[12:25:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2580ms or 51 ticks behind
-[12:25:30] [Server thread/WARN]: _Dieguez_ moved too quickly! -10.221501731335422,-1.1767592750642422,1.4979112658008091
-[13:38:57] [User Authenticator #158/INFO]: UUID of player Nhieeee is 58ccd84c-d0e8-3a16-a47c-a1a69881d8be
-[13:38:59] [Server thread/INFO]: Nhieeee joined the game
-[13:38:59] [Server thread/INFO]: Nhieeee[/179.167.44.84:53093] logged in with entity id 621202 at ([world]-180.3630456417085, 105.0, 158.64455743819113)
-[13:39:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2940ms or 58 ticks behind
-[13:39:18] [Server thread/WARN]: _Dieguez_ moved too quickly! -14.688980392138774,-0.9593602519613711,7.4048907058032505
-[13:39:18] [Server thread/WARN]: Nhieeee moved too quickly! 5.7505346607972,0.0,8.254164574882395
-[13:39:24] [Server thread/WARN]: _Dieguez_ moved too quickly! -10.822032538449662,-11.180947325696195,0.013827593867759447
-[13:39:24] [Server thread/WARN]: Nhieeee moved too quickly! -7.752112664512879,-5.0,4.198905515229399
-[13:39:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8139ms or 162 ticks behind
-[13:41:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4587ms or 91 ticks behind
-[13:41:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6632ms or 132 ticks behind
-[13:45:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2505ms or 50 ticks behind
-[13:59:50] [Server thread/INFO]: Nhieeee lost connection: Disconnected
-[13:59:50] [Server thread/INFO]: Nhieeee left the game
-[14:05:44] [Server thread/INFO]: _Dieguez_ lost connection: Disconnected
-[14:05:44] [Server thread/INFO]: _Dieguez_ left the game
-[15:33:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4418ms or 88 ticks behind
-[18:26:51] [User Authenticator #159/INFO]: UUID of player _Dieguez_ is ef12e6ff-cd2a-3ce2-8dc7-a153e9ec0e01
-[18:26:54] [Server thread/INFO]: _Dieguez_ joined the game
-[18:26:54] [Server thread/INFO]: _Dieguez_[/152.249.108.219:51685] logged in with entity id 625612 at ([world]171.69999998807907, 76.0, 42.69999998807907)
-[18:27:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3178ms or 63 ticks behind
-[18:27:36] [Server thread/WARN]: _Dieguez_ moved too quickly! 15.466173382319141,2.0554624345250403,-2.015422561764339
-[18:27:43] [Server thread/WARN]: _Dieguez_ moved too quickly! 9.544929057255217,-1.0,3.057105168472816
-[18:42:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2865ms or 57 ticks behind
-[19:35:51] [Server thread/INFO]: _Dieguez_ lost connection: Disconnected
-[19:35:51] [Server thread/INFO]: _Dieguez_ left the game
-[20:44:11] [User Authenticator #160/INFO]: UUID of player Nhieeee is 58ccd84c-d0e8-3a16-a47c-a1a69881d8be
-[20:44:13] [Server thread/INFO]: Nhieeee joined the game
-[20:44:14] [Server thread/INFO]: Nhieeee[/179.173.207.36:54402] logged in with entity id 634126 at ([world]-181.74174169368675, 105.0, 159.63078877291667)
-[21:00:01] [User Authenticator #161/INFO]: UUID of player _Dieguez_ is ef12e6ff-cd2a-3ce2-8dc7-a153e9ec0e01
-[21:00:03] [Server thread/INFO]: _Dieguez_ joined the game
-[21:00:03] [Server thread/INFO]: _Dieguez_[/152.249.108.219:56046] logged in with entity id 636255 at ([world]173.69999998807907, 74.0, 41.69999998807907)
-[21:00:08] [Async Chat Thread - #167/INFO]: [Not Secure] <_Dieguez_> Opa
-[21:00:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5950ms or 119 ticks behind
-[21:00:13] [Async Chat Thread - #167/INFO]: [Not Secure] <Nhieeee> salve
-[21:00:24] [Async Chat Thread - #168/INFO]: [Not Secure] <_Dieguez_> Tua farm ta melhor q a minha?
-[21:00:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2982ms or 59 ticks behind
-[21:00:30] [Async Chat Thread - #168/INFO]: [Not Secure] <Nhieeee> ta nada
-[21:00:30] [Async Chat Thread - #167/INFO]: [Not Secure] <_Dieguez_> To precisando aq
-[21:00:32] [Async Chat Thread - #168/INFO]: [Not Secure] <_Dieguez_> KKKK
-[21:00:43] [Async Chat Thread - #168/INFO]: [Not Secure] <_Dieguez_> Ai é foda
-[21:00:50] [Async Chat Thread - #167/INFO]: [Not Secure] <_Dieguez_> Vou ficar la enquanto janto
-[21:00:55] [Async Chat Thread - #168/INFO]: [Not Secure] <_Dieguez_> Na minha msm
-[21:01:46] [Server thread/INFO]: Nhieeee has made the advancement [Hidden in the Depths]
-[21:01:53] [Async Chat Thread - #167/INFO]: [Not Secure] <_Dieguez_> Primeira?
-[21:01:54] [Async Chat Thread - #167/INFO]: [Not Secure] <Nhieeee> s
-[21:02:02] [Async Chat Thread - #167/INFO]: [Not Secure] <_Dieguez_> Excelente!
-[21:02:08] [Async Chat Thread - #167/INFO]: [Not Secure] <Nhieeee> tava na hora
-[21:02:09] [Async Chat Thread - #167/INFO]: [Not Secure] <Nhieeee> kkk
-[21:02:23] [Async Chat Thread - #167/INFO]: [Not Secure] <_Dieguez_> Tudo no seu tempo kkk
-[21:04:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2838ms or 56 ticks behind
-[21:04:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11532ms or 230 ticks behind
-[21:05:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5674ms or 113 ticks behind
-[21:11:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2575ms or 51 ticks behind
-[21:13:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3184ms or 63 ticks behind
-[21:14:05] [Async Chat Thread - #169/INFO]: [Not Secure] <_Dieguez_> Slk, lagou forte ai pra vc tb?
-[21:14:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13931ms or 278 ticks behind
-[21:14:12] [Async Chat Thread - #169/INFO]: [Not Secure] <Nhieeee> ta lgando as vezes
-[21:20:25] [Server thread/WARN]: _Dieguez_ moved too quickly! 7.675493398472867,3.249187078744683,-6.1325658664896565
-[21:23:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2533ms or 50 ticks behind
-[21:27:00] [Server thread/INFO]: Nhieeee burned to death
-[21:27:04] [Async Chat Thread - #171/INFO]: [Not Secure] <_Dieguez_> Eita
-[21:27:04] [Async Chat Thread - #171/INFO]: [Not Secure] <Nhieeee> f
-[21:27:10] [Async Chat Thread - #171/INFO]: [Not Secure] <_Dieguez_> Blaze?
-[21:27:16] [Async Chat Thread - #171/INFO]: [Not Secure] <Nhieeee> lava
-[21:27:20] [Async Chat Thread - #171/INFO]: [Not Secure] <_Dieguez_> Tristeza
-[21:27:22] [Async Chat Thread - #171/INFO]: [Not Secure] <_Dieguez_> Mano
-[21:27:26] [Async Chat Thread - #171/INFO]: [Not Secure] <_Dieguez_> Te passar a call
-[21:27:31] [Async Chat Thread - #171/INFO]: [Not Secure] <_Dieguez_> Leva um caldeirao
-[21:27:35] [Async Chat Thread - #172/INFO]: [Not Secure] <_Dieguez_> E um balde
-[21:27:46] [Async Chat Thread - #172/INFO]: [Not Secure] <_Dieguez_> N da pra colocar agua no chão do nether
-[21:27:51] [Async Chat Thread - #172/INFO]: [Not Secure] <_Dieguez_> Mas dentro do calderão da
-[21:27:51] [Async Chat Thread - #172/INFO]: [Not Secure] <Nhieeee> boto fe
-[21:27:54] [Async Chat Thread - #172/INFO]: [Not Secure] <_Dieguez_> Ai vc entra
-[21:29:14] [Async Chat Thread - #173/INFO]: [Not Secure] <Nhieeee> pelo menos dessa vez n perdi nada
-[21:29:19] [Async Chat Thread - #173/INFO]: [Not Secure] <_Dieguez_> Uai
-[21:29:23] [Async Chat Thread - #173/INFO]: [Not Secure] <_Dieguez_> Deixou no bau?
-[21:29:31] [Async Chat Thread - #173/INFO]: [Not Secure] <Nhieeee> nao voltei e peguei
-[21:29:41] [Async Chat Thread - #173/INFO]: [Not Secure] <_Dieguez_> Ah
-[21:29:43] [Async Chat Thread - #173/INFO]: [Not Secure] <_Dieguez_> Tendeu
-[21:29:45] [Async Chat Thread - #173/INFO]: [Not Secure] <_Dieguez_> Nice
-[21:30:13] [Async Chat Thread - #173/INFO]: [Not Secure] <_Dieguez_> Se quiser pegar umas polvora no bau
-[21:30:22] [Async Chat Thread - #173/INFO]: [Not Secure] <_Dieguez_> Fazer o teste da tnt, pode usar
-[21:30:29] [Async Chat Thread - #174/INFO]: [Not Secure] <Nhieeee> safe
-[21:30:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2741ms or 54 ticks behind
-[21:31:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2846ms or 56 ticks behind
-[21:33:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2619ms or 52 ticks behind
-[21:34:04] [Server thread/WARN]: _Dieguez_ moved too quickly! 14.537438112758963,0.6668000063657757,10.696203569262089
-[21:35:24] [Async Chat Thread - #175/INFO]: [Not Secure] <Nhieeee> ce tem ferro sobrando ai?
-[21:35:28] [Async Chat Thread - #175/INFO]: [Not Secure] <_Dieguez_> Sempre
-[21:35:33] [Async Chat Thread - #175/INFO]: [Not Secure] <_Dieguez_> Pode pegar
-[21:35:42] [Async Chat Thread - #176/INFO]: [Not Secure] <Nhieeee> fazer um caldeirao pra testar
-[21:35:46] [Async Chat Thread - #176/INFO]: [Not Secure] <_Dieguez_> Blz
-[21:38:05] [Async Chat Thread - #177/INFO]: [Not Secure] <_Dieguez_> Mn
-[21:38:14] [Async Chat Thread - #177/INFO]: [Not Secure] <_Dieguez_> Se eu te falar q acho q fiz uma coisa errada
-[21:38:24] [Async Chat Thread - #178/INFO]: [Not Secure] <_Dieguez_> E a matemática da escada n bateu
-[21:38:33] [Async Chat Thread - #178/INFO]: [Not Secure] <Nhieeee> ai F
-[21:38:34] [Async Chat Thread - #177/INFO]: [Not Secure] <_Dieguez_> E q vou ter q derrubar a parede do castelo
-[21:38:38] [Async Chat Thread - #177/INFO]: [Not Secure] <Nhieeee> nem fodendo
-[21:38:38] [Async Chat Thread - #177/INFO]: [Not Secure] <_Dieguez_> Nossa
-[21:38:39] [Async Chat Thread - #177/INFO]: [Not Secure] <Nhieeee> kkk
-[21:38:46] [Async Chat Thread - #177/INFO]: [Not Secure] <_Dieguez_> Eu vou mt fazer uma gambi
-[21:38:54] [Async Chat Thread - #177/INFO]: [Not Secure] <Nhieeee> aconteceu aqui cmg tb
-[21:38:55] [Async Chat Thread - #178/INFO]: [Not Secure] <_Dieguez_> Eu n vivi na época medieval
-[21:38:59] [Async Chat Thread - #178/INFO]: [Not Secure] <Nhieeee> mas nem desfiz nd
-[21:39:02] [Async Chat Thread - #178/INFO]: [Not Secure] <Nhieeee> so larguei
-[21:39:10] [Async Chat Thread - #178/INFO]: [Not Secure] <_Dieguez_> Mas tenho ctz q eles trabalhavam com gambis
-[21:39:15] [Async Chat Thread - #178/INFO]: [Not Secure] <_Dieguez_> Ent eu tb possdo
-[21:39:17] [Async Chat Thread - #178/INFO]: [Not Secure] <_Dieguez_> É
-[21:39:24] [Async Chat Thread - #178/INFO]: [Not Secure] <_Dieguez_> Eu to com preguiça de arrumar
-[21:43:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2525ms or 50 ticks behind
-[21:45:38] [Async Chat Thread - #179/INFO]: [Not Secure] <Nhieeee> ou peguei aqui 1 bloco de ferro
-[21:45:44] [Async Chat Thread - #179/INFO]: [Not Secure] <Nhieeee> ty
-[21:45:45] [Async Chat Thread - #179/INFO]: [Not Secure] <_Dieguez_> De boa
-[21:46:10] [Async Chat Thread - #179/INFO]: [Not Secure] <_Dieguez_> Ai ai
-[21:46:13] [Async Chat Thread - #180/INFO]: [Not Secure] <_Dieguez_> Aql inv todo
-[21:46:19] [Async Chat Thread - #180/INFO]: [Not Secure] <_Dieguez_> Deu pra erguer um total de 3 paredes
-[21:46:22] [Async Chat Thread - #180/INFO]: [Not Secure] <_Dieguez_> :D
-[21:46:26] [Async Chat Thread - #180/INFO]: [Not Secure] <Nhieeee> kkkk
-[21:46:41] [Async Chat Thread - #180/INFO]: [Not Secure] <_Dieguez_> *Começando a me arrepender de minhas escolhas*
-[21:50:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2605ms or 52 ticks behind
-[21:52:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4366ms or 87 ticks behind
-[21:54:00] [Async Chat Thread - #181/INFO]: [Not Secure] <_Dieguez_> Consegue dormir?
-[21:54:11] [Async Chat Thread - #181/INFO]: [Not Secure] <Nhieeee> vo sair
-[21:54:12] [Server thread/INFO]: Nhieeee lost connection: Disconnected
-[21:54:12] [Server thread/INFO]: Nhieeee left the game
-[21:54:27] [User Authenticator #162/INFO]: UUID of player Nhieeee is 58ccd84c-d0e8-3a16-a47c-a1a69881d8be
-[21:54:28] [Server thread/INFO]: Nhieeee joined the game
-[21:54:28] [Server thread/INFO]: Nhieeee[/179.173.207.36:54838] logged in with entity id 648149 at ([world_nether]31.30872637725061, 13.875, 145.9988546361245)
-[21:54:31] [Async Chat Thread - #181/INFO]: [Not Secure] <Nhieeee> deu bom/
-[21:54:32] [Async Chat Thread - #182/INFO]: [Not Secure] <_Dieguez_> Ta
-[21:54:35] [Async Chat Thread - #182/INFO]: [Not Secure] <Nhieeee> ?
-[21:54:37] [Async Chat Thread - #181/INFO]: [Not Secure] <_Dieguez_> De dia fica LINDO
-[21:54:39] [Async Chat Thread - #181/INFO]: [Not Secure] <_Dieguez_> Deu bom sim
-[21:54:41] [Async Chat Thread - #181/INFO]: [Not Secure] <Nhieeee> boa
-[21:54:44] [Async Chat Thread - #181/INFO]: [Not Secure] <_Dieguez_> Slk
-[21:54:50] [Async Chat Thread - #182/INFO]: [Not Secure] <_Dieguez_> De dia isso fica maravilhoso
-[21:55:06] [Async Chat Thread - #182/INFO]: [Not Secure] <_Dieguez_> Tava chovendo, ent o chão da cheio de poça refletindo as luzes
-[21:55:11] [Async Chat Thread - #181/INFO]: [Not Secure] <_Dieguez_> Q bgl lindo da porra
-[21:55:18] [Async Chat Thread - #181/INFO]: [Not Secure] <Nhieeee> nice
-[21:57:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2559ms or 51 ticks behind
-[22:00:20] [Async Chat Thread - #183/INFO]: [Not Secure] <_Dieguez_> Vo cagar
-[22:00:22] [Async Chat Thread - #183/INFO]: [Not Secure] <_Dieguez_> Ja volto
-[22:00:24] [Server thread/INFO]: _Dieguez_ lost connection: Disconnected
-[22:00:24] [Server thread/INFO]: _Dieguez_ left the game
-[22:00:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2538ms or 50 ticks behind
-[22:18:38] [User Authenticator #163/INFO]: UUID of player _Dieguez_ is ef12e6ff-cd2a-3ce2-8dc7-a153e9ec0e01
-[22:18:39] [Server thread/INFO]: _Dieguez_ joined the game
-[22:18:39] [Server thread/INFO]: _Dieguez_[/152.249.108.219:58145] logged in with entity id 650844 at ([world]148.48750001192093, 65.0, 51.30000001192093)
-[22:21:57] [Server thread/INFO]: Nhieeee lost connection: Disconnected
-[22:21:57] [Server thread/INFO]: Nhieeee left the game
-[22:36:06] [Server thread/WARN]: _Dieguez_ moved too quickly! -3.623936231388143,-0.04353562014750878,9.559234520190984
-[22:47:37] [Server thread/INFO]: _Dieguez_ lost connection: Disconnected
-[22:47:37] [Server thread/INFO]: _Dieguez_ left the game
+[11:59:21] [User Authenticator #164/INFO]: UUID of player _Dieguez_ is ef12e6ff-cd2a-3ce2-8dc7-a153e9ec0e01
+[11:59:23] [Server thread/INFO]: _Dieguez_ joined the game
+[11:59:23] [Server thread/INFO]: _Dieguez_[/179.228.63.101:53172] logged in with entity id 655088 at ([world]159.30001131170832, 74.0, 41.76249998807907)
+[12:00:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4896ms or 97 ticks behind
+[12:02:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3242ms or 64 ticks behind
+[12:02:32] [Server thread/WARN]: _Dieguez_ moved too quickly! 2.0831961559457497,-7.0,7.124334699253327
+[12:03:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4116ms or 82 ticks behind
+[12:03:32] [Server thread/WARN]: _Dieguez_ moved too quickly! -0.32186841285978574,1.0900619192267342,16.82584462154719
+[12:12:12] [Server thread/INFO]: _Dieguez_ lost connection: Disconnected
+[12:12:12] [Server thread/INFO]: _Dieguez_ left the game
+[12:18:26] [User Authenticator #165/INFO]: UUID of player Nhieeee is 58ccd84c-d0e8-3a16-a47c-a1a69881d8be
+[12:18:27] [Server thread/INFO]: Nhieeee joined the game
+[12:18:27] [Server thread/INFO]: Nhieeee[/179.228.63.101:50369] logged in with entity id 659471 at ([world]-180.2886774406166, 86.0, 155.46635901024305)
+[12:37:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2594ms or 51 ticks behind
+[12:43:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2759ms or 55 ticks behind
+[13:31:01] [Server thread/INFO]: Nhieeee lost connection: Disconnected
+[13:31:01] [Server thread/INFO]: Nhieeee left the game
+[13:31:39] [User Authenticator #166/INFO]: UUID of player _Dieguez_ is ef12e6ff-cd2a-3ce2-8dc7-a153e9ec0e01
+[13:31:40] [Server thread/INFO]: _Dieguez_ joined the game
+[13:31:40] [Server thread/INFO]: _Dieguez_[/179.228.63.101:51145] logged in with entity id 667968 at ([world]159.30000001192093, 74.0, 39.37982902498817)
+[13:32:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3217ms or 64 ticks behind
+[13:32:52] [Server thread/WARN]: _Dieguez_ moved too quickly! -0.015253239765741,6.176759275064242,-9.05244182032034
+[13:36:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3287ms or 65 ticks behind
+[13:36:00] [Server thread/WARN]: _Dieguez_ moved too quickly! -11.47557138219858,-2.7468000194787976,5.270092352733158
+[13:39:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2552ms or 51 ticks behind
+[13:40:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2506ms or 50 ticks behind
+[13:53:37] [Server thread/INFO]: Villager Villager['Villager'/668004, uuid='fcacd93e-01eb-4f5b-8a83-1b05f1b1cf24', l='ServerLevel[world]', x=172.56, y=61.00, z=107.88, cpos=[10, 6], tl=463009, v=true] died, message: 'Villager was slain by Zombie'
+[14:00:02] [Server thread/WARN]: _Dieguez_ moved wrongly!
+[14:02:30] [Server thread/INFO]: _Dieguez_ lost connection: Disconnected
+[14:02:30] [Server thread/INFO]: _Dieguez_ left the game
+[14:43:16] [User Authenticator #167/INFO]: UUID of player Augurez is a8184e1f-c30e-349b-98e7-160fb0304ac5
+[14:43:19] [Server thread/INFO]: Augurez joined the game
+[14:43:19] [Server thread/INFO]: Augurez[/200.233.245.112:53345] logged in with entity id 671798 at ([world]179.3319914933704, 67.5, 119.02684394850884)
+[14:44:03] [Server thread/INFO]: Augurez lost connection: Disconnected
+[14:44:03] [Server thread/INFO]: Augurez left the game
+[14:44:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3138ms or 62 ticks behind
+[17:08:21] [User Authenticator #168/INFO]: UUID of player Augurez is a8184e1f-c30e-349b-98e7-160fb0304ac5
+[17:08:22] [Server thread/INFO]: Augurez joined the game
+[17:08:22] [Server thread/INFO]: Augurez[/200.233.245.112:57724] logged in with entity id 672091 at ([world]178.19044425224885, 67.5, 121.01365177153777)
+[17:18:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
+[17:30:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2577ms or 51 ticks behind
+[17:36:19] [Server thread/INFO]: Augurez lost connection: Timed out
+[17:36:19] [Server thread/INFO]: Augurez left the game
+[21:42:54] [User Authenticator #169/INFO]: UUID of player _Dieguez_ is ef12e6ff-cd2a-3ce2-8dc7-a153e9ec0e01
+[21:42:56] [Server thread/INFO]: _Dieguez_ joined the game
+[21:42:56] [Server thread/INFO]: _Dieguez_[/152.249.108.219:62050] logged in with entity id 674523 at ([world]172.69999998807907, 64.0, 29.30000001192093)
+[21:44:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3217ms or 64 ticks behind
+[21:47:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3106ms or 62 ticks behind
+[21:48:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2579ms or 51 ticks behind
+[22:34:04] [Server thread/INFO]: _Dieguez_ lost connection: Disconnected
+[22:34:04] [Server thread/INFO]: _Dieguez_ left the game
