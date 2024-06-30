@@ -8,12 +8,15 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:flower_forest": "2024-06-09 03:11:17 -0300",
+      "minecraft:snowy_slopes": "2024-06-30 00:23:51 -0300",
       "minecraft:beach": "2024-06-09 02:46:53 -0300",
       "minecraft:forest": "2024-06-08 16:17:59 -0300",
       "minecraft:cherry_grove": "2024-06-09 02:38:20 -0300",
       "minecraft:sunflower_plains": "2024-06-09 02:50:16 -0300",
       "minecraft:river": "2024-06-08 16:24:22 -0300",
       "minecraft:meadow": "2024-06-08 16:20:32 -0300",
+      "minecraft:birch_forest": "2024-06-30 00:28:15 -0300",
+      "minecraft:stony_shore": "2024-06-30 00:29:06 -0300",
       "minecraft:dripstone_caves": "2024-06-08 16:25:24 -0300",
       "minecraft:plains": "2024-06-09 02:39:38 -0300"
     },
@@ -944,6 +947,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-06-12 13:21:34 -0300",
       "minecraft:piglin": "2024-06-13 22:57:13 -0300",
+      "minecraft:phantom": "2024-06-30 00:22:43 -0300",
       "minecraft:zombified_piglin": "2024-06-13 22:56:58 -0300",
       "minecraft:enderman": "2024-06-13 23:30:20 -0300",
       "minecraft:endermite": "2024-06-13 23:31:08 -0300",
@@ -2148,6 +2152,114 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2024-06-22 12:48:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-06-29 15:21:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-06-29 15:21:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-06-29 15:24:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-06-29 15:24:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2024-06-30 00:58:58 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-06-30 00:38:55 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-06-30 00:46:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2024-06-30 00:58:58 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2024-06-30 00:58:58 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-06-30 00:32:15 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-06-30 00:51:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-06-30 00:46:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-06-30 00:46:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2024-06-30 00:58:58 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-06-30 00:46:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-06-30 00:51:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-06-30 00:32:15 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2024-06-30 00:58:58 -0300"
     },
     "done": true
   },

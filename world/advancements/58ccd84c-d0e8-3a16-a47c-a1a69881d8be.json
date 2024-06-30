@@ -827,6 +827,7 @@
       "minecraft:spider": "2024-06-11 12:53:01 -0300",
       "minecraft:zombie": "2024-06-07 13:44:19 -0300",
       "minecraft:creeper": "2024-06-11 22:56:52 -0300",
+      "minecraft:drowned": "2024-06-29 16:27:44 -0300",
       "minecraft:slime": "2024-06-11 22:59:23 -0300"
     },
     "done": false
@@ -3386,6 +3387,12 @@
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2024-06-27 21:01:46 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-06-29 16:41:59 -0300"
     },
     "done": true
   },

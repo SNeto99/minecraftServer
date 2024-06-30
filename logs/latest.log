@@ -1,51 +1,11 @@
-[11:59:21] [User Authenticator #164/INFO]: UUID of player _Dieguez_ is ef12e6ff-cd2a-3ce2-8dc7-a153e9ec0e01
-[11:59:23] [Server thread/INFO]: _Dieguez_ joined the game
-[11:59:23] [Server thread/INFO]: _Dieguez_[/179.228.63.101:53172] logged in with entity id 655088 at ([world]159.30001131170832, 74.0, 41.76249998807907)
-[12:00:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4896ms or 97 ticks behind
-[12:02:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3242ms or 64 ticks behind
-[12:02:32] [Server thread/WARN]: _Dieguez_ moved too quickly! 2.0831961559457497,-7.0,7.124334699253327
-[12:03:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4116ms or 82 ticks behind
-[12:03:32] [Server thread/WARN]: _Dieguez_ moved too quickly! -0.32186841285978574,1.0900619192267342,16.82584462154719
-[12:12:12] [Server thread/INFO]: _Dieguez_ lost connection: Disconnected
-[12:12:12] [Server thread/INFO]: _Dieguez_ left the game
-[12:18:26] [User Authenticator #165/INFO]: UUID of player Nhieeee is 58ccd84c-d0e8-3a16-a47c-a1a69881d8be
-[12:18:27] [Server thread/INFO]: Nhieeee joined the game
-[12:18:27] [Server thread/INFO]: Nhieeee[/179.228.63.101:50369] logged in with entity id 659471 at ([world]-180.2886774406166, 86.0, 155.46635901024305)
-[12:37:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2594ms or 51 ticks behind
-[12:43:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2759ms or 55 ticks behind
-[13:31:01] [Server thread/INFO]: Nhieeee lost connection: Disconnected
-[13:31:01] [Server thread/INFO]: Nhieeee left the game
-[13:31:39] [User Authenticator #166/INFO]: UUID of player _Dieguez_ is ef12e6ff-cd2a-3ce2-8dc7-a153e9ec0e01
-[13:31:40] [Server thread/INFO]: _Dieguez_ joined the game
-[13:31:40] [Server thread/INFO]: _Dieguez_[/179.228.63.101:51145] logged in with entity id 667968 at ([world]159.30000001192093, 74.0, 39.37982902498817)
-[13:32:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3217ms or 64 ticks behind
-[13:32:52] [Server thread/WARN]: _Dieguez_ moved too quickly! -0.015253239765741,6.176759275064242,-9.05244182032034
-[13:36:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3287ms or 65 ticks behind
-[13:36:00] [Server thread/WARN]: _Dieguez_ moved too quickly! -11.47557138219858,-2.7468000194787976,5.270092352733158
-[13:39:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2552ms or 51 ticks behind
-[13:40:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2506ms or 50 ticks behind
-[13:53:37] [Server thread/INFO]: Villager Villager['Villager'/668004, uuid='fcacd93e-01eb-4f5b-8a83-1b05f1b1cf24', l='ServerLevel[world]', x=172.56, y=61.00, z=107.88, cpos=[10, 6], tl=463009, v=true] died, message: 'Villager was slain by Zombie'
-[14:00:02] [Server thread/WARN]: _Dieguez_ moved wrongly!
-[14:02:30] [Server thread/INFO]: _Dieguez_ lost connection: Disconnected
-[14:02:30] [Server thread/INFO]: _Dieguez_ left the game
-[14:43:16] [User Authenticator #167/INFO]: UUID of player Augurez is a8184e1f-c30e-349b-98e7-160fb0304ac5
-[14:43:19] [Server thread/INFO]: Augurez joined the game
-[14:43:19] [Server thread/INFO]: Augurez[/200.233.245.112:53345] logged in with entity id 671798 at ([world]179.3319914933704, 67.5, 119.02684394850884)
-[14:44:03] [Server thread/INFO]: Augurez lost connection: Disconnected
-[14:44:03] [Server thread/INFO]: Augurez left the game
-[14:44:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3138ms or 62 ticks behind
-[17:08:21] [User Authenticator #168/INFO]: UUID of player Augurez is a8184e1f-c30e-349b-98e7-160fb0304ac5
-[17:08:22] [Server thread/INFO]: Augurez joined the game
-[17:08:22] [Server thread/INFO]: Augurez[/200.233.245.112:57724] logged in with entity id 672091 at ([world]178.19044425224885, 67.5, 121.01365177153777)
-[17:18:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
-[17:30:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2577ms or 51 ticks behind
-[17:36:19] [Server thread/INFO]: Augurez lost connection: Timed out
-[17:36:19] [Server thread/INFO]: Augurez left the game
-[21:42:54] [User Authenticator #169/INFO]: UUID of player _Dieguez_ is ef12e6ff-cd2a-3ce2-8dc7-a153e9ec0e01
-[21:42:56] [Server thread/INFO]: _Dieguez_ joined the game
-[21:42:56] [Server thread/INFO]: _Dieguez_[/152.249.108.219:62050] logged in with entity id 674523 at ([world]172.69999998807907, 64.0, 29.30000001192093)
-[21:44:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3217ms or 64 ticks behind
-[21:47:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3106ms or 62 ticks behind
-[21:48:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2579ms or 51 ticks behind
-[22:34:04] [Server thread/INFO]: _Dieguez_ lost connection: Disconnected
-[22:34:04] [Server thread/INFO]: _Dieguez_ left the game
+[00:21:32] [User Authenticator #176/INFO]: UUID of player Duh is b2c2e981-38a4-3bc1-8a07-e35a2ff51ebf
+[00:21:33] [Server thread/INFO]: Duh joined the game
+[00:21:33] [Server thread/INFO]: Duh[/191.202.230.239:60165] logged in with entity id 696614 at ([world]870.300598412639, 121.0, -191.33081380738153)
+[00:22:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3363ms or 67 ticks behind
+[00:38:55] [Server thread/INFO]: Duh has made the advancement [Hot Stuff]
+[00:47:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2778ms or 55 ticks behind
+[00:49:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2513ms or 50 ticks behind
+[00:51:18] [Server thread/INFO]: Duh has made the advancement [What a Deal!]
+[01:01:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2656ms or 53 ticks behind
+[01:30:35] [Server thread/INFO]: Duh lost connection: Disconnected
+[01:30:36] [Server thread/INFO]: Duh left the game
