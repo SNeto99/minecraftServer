@@ -9,3 +9,29 @@
 [01:01:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2656ms or 53 ticks behind
 [01:30:35] [Server thread/INFO]: Duh lost connection: Disconnected
 [01:30:36] [Server thread/INFO]: Duh left the game
+[05:38:23] [Server thread/INFO]: Stopping the server
+[05:38:23] [Server thread/INFO]: Stopping server
+[05:38:23] [Server thread/INFO]: Saving players
+[05:38:23] [Server thread/INFO]: Saving worlds
+[05:38:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:38:24] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[05:38:24] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[05:38:24] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[05:38:26] [Server thread/INFO]: [ChunkHolderManager] Saved 4 block chunks, 283 entity chunks, 0 poi chunks in world 'world' in 1.87s
+[05:38:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:38:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[05:38:26] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[05:38:26] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[05:38:26] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[05:38:29] [Server thread/INFO]: [ChunkHolderManager] Saved 74 block chunks, 231 entity chunks, 0 poi chunks in world 'world_nether' in 2.62s
+[05:38:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:38:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[05:38:29] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[05:38:29] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[05:38:29] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[05:38:29] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[05:38:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:38:29] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05:38:29] [Server thread/INFO]: Flushing Chunk IO
+[05:38:29] [Server thread/INFO]: Closing Thread Pool
+[05:38:29] [Server thread/INFO]: Closing Server
