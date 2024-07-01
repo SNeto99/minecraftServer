@@ -1,37 +1,219 @@
-[00:21:32] [User Authenticator #176/INFO]: UUID of player Duh is b2c2e981-38a4-3bc1-8a07-e35a2ff51ebf
-[00:21:33] [Server thread/INFO]: Duh joined the game
-[00:21:33] [Server thread/INFO]: Duh[/191.202.230.239:60165] logged in with entity id 696614 at ([world]870.300598412639, 121.0, -191.33081380738153)
-[00:22:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3363ms or 67 ticks behind
-[00:38:55] [Server thread/INFO]: Duh has made the advancement [Hot Stuff]
-[00:47:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2778ms or 55 ticks behind
-[00:49:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2513ms or 50 ticks behind
-[00:51:18] [Server thread/INFO]: Duh has made the advancement [What a Deal!]
-[01:01:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2656ms or 53 ticks behind
-[01:30:35] [Server thread/INFO]: Duh lost connection: Disconnected
-[01:30:36] [Server thread/INFO]: Duh left the game
-[05:38:23] [Server thread/INFO]: Stopping the server
-[05:38:23] [Server thread/INFO]: Stopping server
-[05:38:23] [Server thread/INFO]: Saving players
-[05:38:23] [Server thread/INFO]: Saving worlds
-[05:38:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[05:38:24] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[05:38:24] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[05:38:24] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[05:38:26] [Server thread/INFO]: [ChunkHolderManager] Saved 4 block chunks, 283 entity chunks, 0 poi chunks in world 'world' in 1.87s
-[05:38:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05:38:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[05:38:26] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[05:38:26] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[05:38:26] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[05:38:29] [Server thread/INFO]: [ChunkHolderManager] Saved 74 block chunks, 231 entity chunks, 0 poi chunks in world 'world_nether' in 2.62s
-[05:38:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:38:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[05:38:29] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[05:38:29] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[05:38:29] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[05:38:29] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[05:38:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05:38:29] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[05:38:29] [Server thread/INFO]: Flushing Chunk IO
-[05:38:29] [Server thread/INFO]: Closing Thread Pool
-[05:38:29] [Server thread/INFO]: Closing Server
+[06:15:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[06:15:11] [ServerMain/INFO]: Loaded 1175 recipes
+[06:15:12] [ServerMain/INFO]: Loaded 1276 advancements
+[06:15:12] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[06:15:12] [Server thread/WARN]: ****************************
+[06:15:12] [Server thread/WARN]: YOU ARE RUNNING THIS SERVER AS AN ADMINISTRATIVE OR ROOT USER. THIS IS NOT ADVISED.
+[06:15:12] [Server thread/WARN]: YOU ARE OPENING YOURSELF UP TO POTENTIAL RISKS WHEN DOING THIS.
+[06:15:12] [Server thread/WARN]: FOR MORE INFORMATION, SEE https://madelinemiller.dev/blog/root-minecraft-server/
+[06:15:12] [Server thread/WARN]: ****************************
+[06:15:12] [Server thread/INFO]: Loading properties
+[06:15:12] [Server thread/INFO]: This server is running Paper version 1.20.6-139-master@79e2cb6 (2024-06-13T14:55:37Z) (Implementing API version 1.20.6-R0.1-SNAPSHOT)
+[06:15:13] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[06:15:13] [Server thread/INFO]: Using 4 threads for Netty based IO
+[06:15:15] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[06:15:15] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[06:15:15] [Server thread/INFO]: Default game type: SURVIVAL
+[06:15:15] [Server thread/INFO]: Generating keypair
+[06:15:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[06:15:16] [Server thread/INFO]: Using epoll channel type
+[06:15:16] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[06:15:16] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[06:15:16] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[06:15:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06:15:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[06:15:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06:15:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[06:15:16] [Server thread/INFO]: Preparing level "world"
+[06:15:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[06:15:20] [Server thread/INFO]: Time elapsed: 2824 ms
+[06:15:20] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[06:15:21] [Server thread/INFO]: Time elapsed: 464 ms
+[06:15:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[06:15:21] [Server thread/INFO]: Time elapsed: 191 ms
+[06:15:21] [Server thread/INFO]: Running delayed init tasks
+[06:15:21] [Server thread/INFO]: Done (9.153s)! For help, type "help"
+[06:15:21] [Server thread/INFO]: Timings Reset
+[06:15:39] [User Authenticator #0/INFO]: UUID of player sNeto99 is 0d725e62-b558-371e-8d02-0dc3f0e23568
+[06:15:42] [Server thread/INFO]: sNeto99 joined the game
+[06:15:42] [Server thread/INFO]: sNeto99[/187.23.89.61:53110] logged in with entity id 60 at ([world]360.0198018258539, 184.0, -492.06966908896953)
+[06:15:49] [Server thread/INFO]: sNeto99 lost connection: Disconnected
+[06:15:50] [Server thread/INFO]: sNeto99 left the game
+[11:06:05] [User Authenticator #1/INFO]: UUID of player Nhieeee is 58ccd84c-d0e8-3a16-a47c-a1a69881d8be
+[11:06:06] [Server thread/INFO]: Nhieeee joined the game
+[11:06:06] [Server thread/INFO]: Nhieeee[/179.225.206.253:55902] logged in with entity id 237 at ([world]182.94011896265505, 63.0, 100.90614545956733)
+[11:57:51] [Server thread/INFO]: Nhieeee lost connection: Disconnected
+[11:57:51] [Server thread/INFO]: Nhieeee left the game
+[12:20:08] [User Authenticator #2/INFO]: UUID of player Nhieeee is 58ccd84c-d0e8-3a16-a47c-a1a69881d8be
+[12:20:09] [Server thread/INFO]: Nhieeee joined the game
+[12:20:09] [Server thread/INFO]: Nhieeee[/179.225.206.253:56553] logged in with entity id 6475 at ([world_nether]-191.40776439356793, 14.0, 182.71830943017767)
+[12:29:13] [Server thread/INFO]: Nhieeee lost connection: Disconnected
+[12:29:13] [Server thread/INFO]: Nhieeee left the game
+[12:57:49] [User Authenticator #3/INFO]: UUID of player _Dieguez_ is ef12e6ff-cd2a-3ce2-8dc7-a153e9ec0e01
+[12:57:50] [Server thread/INFO]: _Dieguez_ joined the game
+[12:57:50] [Server thread/INFO]: _Dieguez_[/152.249.108.219:62343] logged in with entity id 7514 at ([world]331.2513233195651, 108.0, 71.54289001067228)
+[13:49:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6061ms or 121 ticks behind
+[13:56:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2614ms or 52 ticks behind
+[14:37:01] [Server thread/INFO]: Villager Villager['Villager'/10371, uuid='252d1549-7c97-4978-b4e8-5d84f5f90f41', l='ServerLevel[world]', x=171.85, y=63.12, z=119.85, cpos=[10, 7], tl=111612, v=true] died, message: 'Villager was squished too much'
+[14:38:15] [Server thread/INFO]: Villager Villager['Villager'/10366, uuid='5cf6a414-2711-44f3-a58a-71ddab053b96', l='ServerLevel[world]', x=171.89, y=63.07, z=119.84, cpos=[10, 7], tl=411772, v=true] died, message: 'Villager was squished too much'
+[14:38:26] [Server thread/INFO]: Villager Villager['Villager'/15534, uuid='96e43018-2f5d-4335-aa97-7365bdc4820d', l='ServerLevel[world]', x=171.87, y=63.08, z=119.80, cpos=[10, 7], tl=33362, v=true] died, message: 'Villager was squished too much'
+[15:01:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3321ms or 66 ticks behind
+[15:02:18] [Server thread/INFO]: Villager Villager['Villager'/10383, uuid='8e1330b5-2902-498c-93d4-834854fac49f', l='ServerLevel[world]', x=171.87, y=63.03, z=119.88, cpos=[10, 7], tl=427205, v=true] died, message: 'Villager was squished too much'
+[15:03:56] [Server thread/INFO]: Villager Villager['Villager'/13921, uuid='01292532-58f0-4468-b9d6-dde72c4dc180', l='ServerLevel[world]', x=171.87, y=63.08, z=119.82, cpos=[10, 7], tl=89259, v=true] died, message: 'Villager was squished too much'
+[15:13:56] [Server thread/INFO]: Villager Villager['Villager'/10358, uuid='2d4e7aa5-6a8e-42c4-9309-8c20db324a79', l='ServerLevel[world]', x=171.87, y=63.06, z=119.88, cpos=[10, 7], tl=689190, v=true] died, message: 'Villager was squished too much'
+[15:16:48] [Server thread/INFO]: Villager Villager['Villager'/18485, uuid='492d20a0-fdec-4589-b852-9a16066d2593', l='ServerLevel[world]', x=171.90, y=63.09, z=119.89, cpos=[10, 7], tl=32752, v=true] died, message: 'Villager was squished too much'
+[15:24:09] [User Authenticator #4/INFO]: UUID of player Nhieeee is 58ccd84c-d0e8-3a16-a47c-a1a69881d8be
+[15:24:10] [Server thread/INFO]: Nhieeee joined the game
+[15:24:10] [Server thread/INFO]: Nhieeee[/179.173.199.234:64272] logged in with entity id 21211 at ([world_nether]-141.41682164098555, 14.0, 207.36522343230283)
+[15:24:16] [Async Chat Thread - #0/INFO]: [Not Secure] <Nhieeee> olha o home
+[15:24:18] [Server thread/INFO]: Villager Villager['Villager'/19114, uuid='f2c0b57a-fe46-40c0-bd07-0ad69e906ae4', l='ServerLevel[world]', x=171.90, y=63.03, z=119.88, cpos=[10, 7], tl=32484, v=true] died, message: 'Villager was squished too much'
+[15:26:09] [Async Chat Thread - #1/INFO]: [Not Secure] <_Dieguez_> Opa
+[15:26:14] [Async Chat Thread - #1/INFO]: [Not Secure] <_Dieguez_> Bão?
+[15:26:17] [Async Chat Thread - #1/INFO]: [Not Secure] <_Dieguez_> Tava afk
+[15:26:21] [Async Chat Thread - #2/INFO]: [Not Secure] <_Dieguez_> Fazendo minhas marmita
+[15:26:49] [Server thread/INFO]: Villager Villager['Villager'/11722, uuid='42c85b19-f34c-4b29-8a63-5672d9c45990', l='ServerLevel[world]', x=171.85, y=63.04, z=119.84, cpos=[10, 7], tl=127225, v=true] died, message: 'Villager was squished too much'
+[15:27:00] [Async Chat Thread - #2/INFO]: [Not Secure] <_Dieguez_> Agr vou de academias
+[15:27:01] [Async Chat Thread - #2/INFO]: [Not Secure] <_Dieguez_> Fui
+[15:27:03] [Async Chat Thread - #2/INFO]: [Not Secure] <Nhieeee> dale
+[15:27:03] [Server thread/INFO]: _Dieguez_ lost connection: Disconnected
+[15:27:03] [Server thread/INFO]: _Dieguez_ left the game
+[15:50:24] [Server thread/INFO]: Nhieeee has completed the challenge [Cover Me in Debris]
+[15:54:59] [Server thread/INFO]: Nhieeee has made the advancement [Crafting a New Look]
+[16:41:15] [Server thread/INFO]: Villager Villager['Villager'/24834, uuid='182a1385-c7e0-4003-8875-b50d7252d63f', l='ServerLevel[world]', x=171.88, y=63.10, z=119.88, cpos=[10, 7], tl=416036, v=true] died, message: 'Villager was squished too much'
+[16:42:07] [Server thread/WARN]: Jungle Boat (vehicle of Nhieeee) moved too quickly! -34.305642821393945,0.0,-0.625
+[16:47:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9870ms or 197 ticks behind
+[16:47:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6937ms or 138 ticks behind
+[16:57:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2837ms or 56 ticks behind
+[17:00:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3386ms or 67 ticks behind
+[17:00:32] [Server thread/WARN]: Nhieeee moved too quickly! 0.699700026570298,-3.986831986563679,-15.394631286059422
+[17:02:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2931ms or 58 ticks behind
+[17:17:43] [Server thread/INFO]: Villager Villager['Villager'/31436, uuid='a749d95a-6f3d-4db2-8d2f-bef72d0145a1', l='ServerLevel[world]', x=171.89, y=63.15, z=119.88, cpos=[10, 7], tl=32296, v=true] died, message: 'Villager was squished too much'
+[17:20:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2792ms or 55 ticks behind
+[17:29:55] [Server thread/INFO]: Nhieeee lost connection: Disconnected
+[17:29:56] [Server thread/INFO]: Nhieeee left the game
+[17:54:50] [User Authenticator #5/INFO]: UUID of player Nhieeee is 58ccd84c-d0e8-3a16-a47c-a1a69881d8be
+[17:54:51] [Server thread/INFO]: Nhieeee joined the game
+[17:54:51] [Server thread/INFO]: Nhieeee[/179.225.206.253:60002] logged in with entity id 35187 at ([world]-6.4994917270537025, -53.0, -84.81347906801264)
+[17:58:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3589ms or 71 ticks behind
+[18:41:45] [Server thread/INFO]: Nhieeee lost connection: Timed out
+[18:41:45] [Server thread/INFO]: Nhieeee left the game
+[18:42:40] [User Authenticator #6/INFO]: UUID of player Nhieeee is 58ccd84c-d0e8-3a16-a47c-a1a69881d8be
+[18:42:41] [Server thread/INFO]: Nhieeee joined the game
+[18:42:41] [Server thread/INFO]: Nhieeee[/179.225.206.253:50162] logged in with entity id 40614 at ([world]-6.300000011920929, -52.5, -86.19461893307553)
+[19:27:12] [Server thread/INFO]: Villager Villager['Villager'/42547, uuid='6054ea5a-7ce7-47e1-817f-4f0764423e1c', l='ServerLevel[world]', x=171.85, y=63.03, z=119.89, cpos=[10, 7], tl=51303, v=true] died, message: 'Villager was squished too much'
+[19:31:35] [Server thread/INFO]: Nhieeee lost connection: Disconnected
+[19:31:35] [Server thread/INFO]: Nhieeee left the game
+[19:37:05] [User Authenticator #7/INFO]: UUID of player _Dieguez_ is ef12e6ff-cd2a-3ce2-8dc7-a153e9ec0e01
+[19:37:06] [Server thread/INFO]: _Dieguez_ joined the game
+[19:37:06] [Server thread/INFO]: _Dieguez_[/152.249.108.219:61868] logged in with entity id 45418 at ([world]249.69999998807907, 65.0, 40.30000001192093)
+[19:52:06] [Server thread/INFO]: Villager Villager['Villager'/45566, uuid='76ac35b3-7244-4b87-8957-920a1283a133', l='ServerLevel[world]', x=171.89, y=63.17, z=119.89, cpos=[10, 7], tl=807408, v=true] died, message: 'Villager was squished too much'
+[20:03:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
+[20:05:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2512ms or 50 ticks behind
+[20:10:02] [Server thread/INFO]: Villager Villager['Villager'/45562, uuid='b6cadebe-e0f3-4aeb-b46e-0291963552e2', l='ServerLevel[world]', x=171.30, y=63.00, z=119.81, cpos=[10, 7], tl=53498, v=true] died, message: 'Villager was squished too much'
+[20:10:34] [Server thread/INFO]: Villager Villager['Villager'/45553, uuid='2b16c897-3a2b-47ef-9070-5f009c59fc12', l='ServerLevel[world]', x=171.30, y=63.00, z=119.30, cpos=[10, 7], tl=159671, v=true] died, message: 'Villager was squished too much'
+[20:17:35] [User Authenticator #8/INFO]: UUID of player Nhieeee is 58ccd84c-d0e8-3a16-a47c-a1a69881d8be
+[20:17:36] [Server thread/INFO]: Nhieeee joined the game
+[20:17:36] [Server thread/INFO]: Nhieeee[/179.225.206.253:61009] logged in with entity id 50666 at ([world]168.49708040601004, 64.0, 37.966939571516775)
+[20:17:44] [Async Chat Thread - #5/INFO]: [Not Secure] <Nhieeee> alo
+[20:17:46] [Async Chat Thread - #5/INFO]: [Not Secure] <_Dieguez_> Opa
+[20:17:54] [Async Chat Thread - #3/INFO]: [Not Secure] <Nhieeee> onde ce ta
+[20:17:59] [Async Chat Thread - #3/INFO]: [Not Secure] <_Dieguez_> Em casa, pq?
+[20:18:07] [Async Chat Thread - #3/INFO]: [Not Secure] <_Dieguez_> Olha o cara
+[20:18:11] [Async Chat Thread - #5/INFO]: [Not Secure] <Nhieeee> agora to brabo
+[20:18:16] [Async Chat Thread - #5/INFO]: [Not Secure] <_Dieguez_> Fez a armadura ficar bonitinha
+[20:18:21] [Async Chat Thread - #5/INFO]: [Not Secure] <Nhieeee> s
+[20:18:24] [Async Chat Thread - #5/INFO]: [Not Secure] <_Dieguez_> Foda
+[20:18:29] [Async Chat Thread - #5/INFO]: [Not Secure] <_Dieguez_> Quero fazer na minha tb
+[20:18:32] [Async Chat Thread - #5/INFO]: [Not Secure] <_Dieguez_> Só q rosa
+[20:18:36] [Async Chat Thread - #5/INFO]: [Not Secure] <Nhieeee> tem umas braba
+[20:18:38] [Async Chat Thread - #5/INFO]: [Not Secure] <_Dieguez_> Sim
+[20:18:41] [Async Chat Thread - #5/INFO]: [Not Secure] <_Dieguez_> Essa é qual?
+[20:18:48] [Server thread/INFO]: Villager Villager['Villager'/45549, uuid='869fe4f1-8191-483c-ad75-66e4c14047d4', l='ServerLevel[world]', x=171.85, y=63.13, z=119.88, cpos=[10, 7], tl=391431, v=true] died, message: 'Villager was squished too much'
+[20:18:50] [Async Chat Thread - #5/INFO]: [Not Secure] <Nhieeee> vish
+[20:18:52] [Async Chat Thread - #5/INFO]: [Not Secure] <Nhieeee> nem lembro nome
+[20:18:57] [Async Chat Thread - #3/INFO]: [Not Secure] <_Dieguez_> Pegou aonde os templates?
+[20:18:58] [Async Chat Thread - #3/INFO]: [Not Secure] <Nhieeee> coast armor
+[20:19:01] [Async Chat Thread - #3/INFO]: [Not Secure] <_Dieguez_> Nos bastion?
+[20:19:02] [Async Chat Thread - #5/INFO]: [Not Secure] <Nhieeee> num navio
+[20:19:04] [Async Chat Thread - #5/INFO]: [Not Secure] <_Dieguez_> Ah
+[20:19:08] [Async Chat Thread - #5/INFO]: [Not Secure] <_Dieguez_> Pegou no navio
+[20:19:10] [Async Chat Thread - #5/INFO]: [Not Secure] <Nhieeee> s
+[20:19:11] [Async Chat Thread - #5/INFO]: [Not Secure] <_Dieguez_> Tendeu
+[20:19:15] [Async Chat Thread - #5/INFO]: [Not Secure] <_Dieguez_> Forte
+[20:19:23] [Async Chat Thread - #3/INFO]: [Not Secure] <_Dieguez_> E tua farm de xp?
+[20:19:26] [Async Chat Thread - #3/INFO]: [Not Secure] <Nhieeee> meme
+[20:19:29] [Async Chat Thread - #3/INFO]: [Not Secure] <Nhieeee> to usandoa tua
+[20:19:33] [Async Chat Thread - #3/INFO]: [Not Secure] <_Dieguez_> Tendeu
+[20:19:37] [Server thread/INFO]: Villager Villager['Villager'/45534, uuid='474d400e-0b76-42e5-bc8f-f7f9e980f52a', l='ServerLevel[world]', x=171.79, y=63.00, z=119.30, cpos=[10, 7], tl=694017, v=true] died, message: 'Villager was squished too much'
+[20:19:39] [Async Chat Thread - #3/INFO]: [Not Secure] <_Dieguez_> Ta com mending em tudo?
+[20:19:43] [Async Chat Thread - #3/INFO]: [Not Secure] <Nhieeee> nda
+[20:19:46] [Async Chat Thread - #3/INFO]: [Not Secure] <Nhieeee> to farmando ainda
+[20:19:49] [Async Chat Thread - #3/INFO]: [Not Secure] <Nhieeee> peguei so 2
+[20:19:50] [Async Chat Thread - #3/INFO]: [Not Secure] <_Dieguez_> Tendeu tendeu
+[20:20:14] [Async Chat Thread - #3/INFO]: [Not Secure] <_Dieguez_> Eu to pegando pedra né
+[20:20:16] [Async Chat Thread - #3/INFO]: [Not Secure] <_Dieguez_> Como sempre
+[20:20:18] [Async Chat Thread - #3/INFO]: [Not Secure] <Nhieeee> kkk
+[20:20:22] [Async Chat Thread - #3/INFO]: [Not Secure] <_Dieguez_> Queria ir pro end
+[20:20:31] [Async Chat Thread - #3/INFO]: [Not Secure] <_Dieguez_> Uma elytra ia facilitar mt minha vida
+[20:20:34] [Async Chat Thread - #3/INFO]: [Not Secure] <Nhieeee> entao
+[20:20:40] [Async Chat Thread - #3/INFO]: [Not Secure] <Nhieeee> tem q ver quem quer ir junto
+[20:20:43] [Async Chat Thread - #3/INFO]: [Not Secure] <_Dieguez_> Pois é
+[20:20:44] [Async Chat Thread - #3/INFO]: [Not Secure] <Nhieeee> e ir la
+[20:20:45] [Async Chat Thread - #3/INFO]: [Not Secure] <_Dieguez_> Mas mano
+[20:20:49] [Async Chat Thread - #3/INFO]: [Not Secure] <_Dieguez_> Eu sempre to on
+[20:20:55] [Async Chat Thread - #3/INFO]: [Not Secure] <_Dieguez_> E só vejo eu e vc jogandfo
+[20:21:20] [Async Chat Thread - #3/INFO]: [Not Secure] <Nhieeee> amanha a gente ve com os cara
+[20:21:26] [Async Chat Thread - #3/INFO]: [Not Secure] <_Dieguez_> Pdp
+[20:21:29] [Async Chat Thread - #3/INFO]: [Not Secure] <Nhieeee> qlq coisa joga um dia na hjora do almoço
+[20:21:31] [Async Chat Thread - #3/INFO]: [Not Secure] <Nhieeee> taodo mundo
+[20:21:43] [Async Chat Thread - #3/INFO]: [Not Secure] <_Dieguez_> Por mim pode ser
+[20:22:01] [Async Chat Thread - #3/INFO]: [Not Secure] <_Dieguez_> Eu to quase fazendo o dragão sozinho, e revivendo ele, só pra ter um portal la KKKKKKKK
+[20:22:35] [Async Chat Thread - #5/INFO]: [Not Secure] <Nhieeee> kkk
+[20:25:30] [Async Chat Thread - #6/INFO]: [Not Secure] <Nhieeee> mas ou amanha a gente faz ou combina de fazer
+[20:25:41] [Async Chat Thread - #7/INFO]: [Not Secure] <Nhieeee> toa fim tb de pegar elytra
+[20:40:27] [Async Chat Thread - #8/INFO]: [Not Secure] <_Dieguez_> Pdp, a gente faz ss
+[20:40:32] [Async Chat Thread - #8/INFO]: [Not Secure] <_Dieguez_> Desculpa a demora
+[20:40:36] [Async Chat Thread - #8/INFO]: [Not Secure] <_Dieguez_> Fui pegar janta
+[20:40:37] [Async Chat Thread - #8/INFO]: [Not Secure] <_Dieguez_> Ou
+[20:40:41] [Async Chat Thread - #9/INFO]: [Not Secure] <_Dieguez_> Dxa eu perguntar
+[20:41:07] [Async Chat Thread - #9/INFO]: [Not Secure] <_Dieguez_> Ce por um acaso n ta afim de jogar um lol ou sla? To vendo mt pedra esses tempos, se quiser jogar um lol
+[20:41:15] [Async Chat Thread - #9/INFO]: [Not Secure] <_Dieguez_> To afim, se n, tudo bem
+[20:41:18] [Async Chat Thread - #9/INFO]: [Not Secure] <Nhieeee> ou to jgoando lol na real
+[20:41:23] [Async Chat Thread - #8/INFO]: [Not Secure] <Nhieeee> to so faramando xp aqui
+[20:41:42] [Async Chat Thread - #8/INFO]: [Not Secure] <_Dieguez_> Ah
+[20:41:44] [Async Chat Thread - #8/INFO]: [Not Secure] <_Dieguez_> KKKKKKKKKKKKKKKK
+[20:41:49] [Async Chat Thread - #8/INFO]: [Not Secure] <_Dieguez_> Ta solo?
+[21:05:10] [Server thread/INFO]: _Dieguez_ lost connection: Disconnected
+[21:05:10] [Server thread/INFO]: _Dieguez_ left the game
+[21:05:46] [Server thread/INFO]: Nhieeee lost connection: Timed out
+[21:05:46] [Server thread/INFO]: Nhieeee left the game
+[21:10:55] [User Authenticator #9/INFO]: UUID of player Nhieeee is 58ccd84c-d0e8-3a16-a47c-a1a69881d8be
+[21:10:56] [Server thread/INFO]: Nhieeee joined the game
+[21:10:56] [Server thread/INFO]: Nhieeee[/179.225.206.253:55043] logged in with entity id 60234 at ([world]-6.53640512789146, -52.5, -86.19512566672651)
+[21:12:36] [Server thread/INFO]: Villager Villager['Villager'/60420, uuid='f3d8ed1c-87e2-4c98-9110-01c04536c356', l='ServerLevel[world]', x=171.80, y=63.00, z=119.30, cpos=[10, 7], tl=333373, v=true] died, message: 'Villager was squished too much'
+[21:13:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5874ms or 117 ticks behind
+[21:18:09] [Server thread/WARN]: Jungle Boat (vehicle of Nhieeee) moved too quickly! -38.56573624482523,0.0,0.48737710390702205
+[21:18:09] [Server thread/WARN]: Jungle Boat (vehicle of Nhieeee) moved too quickly! -40.43524368584471,0.0,0.5260913684641935
+[21:18:09] [Server thread/WARN]: Jungle Boat (vehicle of Nhieeee) moved too quickly! -42.307357712200556,0.0,0.5645452178645769
+[21:18:09] [Server thread/WARN]: Jungle Boat (vehicle of Nhieeee) moved too quickly! -44.18202937735896,0.0,0.579977692929134
+[21:43:57] [Server thread/INFO]: Villager Villager['Librarian'/63699, uuid='044afe52-934c-44a4-883d-a20e766ddffb', l='ServerLevel[world]', x=169.50, y=63.06, z=119.51, cpos=[10, 7], tl=673897, v=true] died, message: 'Librarian suffocated in a wall'
+[21:44:04] [Server thread/INFO]: Villager Villager['Villager'/63703, uuid='fc0f7361-a640-4002-9be2-8e54b9f08d20', l='ServerLevel[world]', x=170.50, y=63.06, z=118.51, cpos=[10, 7], tl=822625, v=true] died, message: 'Villager suffocated in a wall'
+[21:44:31] [Server thread/INFO]: Villager Villager['Librarian'/63713, uuid='599ece74-5a98-403a-a2ad-c1838e4b8ba9', l='ServerLevel[world]', x=169.50, y=63.06, z=119.51, cpos=[10, 7], tl=624344, v=true] died, message: 'Librarian suffocated in a wall'
+[21:44:58] [Server thread/INFO]: Villager Villager['Librarian'/63720, uuid='70d31d5e-8eec-458e-becd-32866d46b7df', l='ServerLevel[world]', x=169.50, y=63.06, z=119.51, cpos=[10, 7], tl=792547, v=true] died, message: 'Librarian suffocated in a wall'
+[21:45:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4305ms or 86 ticks behind
+[21:46:34] [Server thread/INFO]: Villager Villager['Librarian'/63714, uuid='7d581119-a45d-4f1a-bfea-0d73dd8c7c32', l='ServerLevel[world]', x=169.50, y=63.06, z=119.51, cpos=[10, 7], tl=724744, v=true] died, message: 'Librarian suffocated in a wall'
+[21:46:51] [Server thread/INFO]: Villager Villager['Librarian'/63708, uuid='7f881d25-7d7c-4fa8-888a-9127fae776c9', l='ServerLevel[world]', x=169.50, y=63.06, z=119.51, cpos=[10, 7], tl=488657, v=true] died, message: 'Librarian suffocated in a wall'
+[21:47:16] [Server thread/INFO]: Villager Villager['Librarian'/63718, uuid='c1053498-47d9-444e-9dc4-21a96f37ed3a', l='ServerLevel[world]', x=169.50, y=63.06, z=119.51, cpos=[10, 7], tl=869763, v=true] died, message: 'Librarian suffocated in a wall'
+[21:47:35] [Server thread/INFO]: Villager Villager['Librarian'/63724, uuid='856269b6-4634-4951-9063-60634750a7f4', l='ServerLevel[world]', x=169.50, y=63.06, z=119.51, cpos=[10, 7], tl=385665, v=true] died, message: 'Librarian suffocated in a wall'
+[21:47:58] [Server thread/INFO]: Villager Villager['Librarian'/63721, uuid='cf1a4742-e1dd-45a5-93ab-ea0ed0ad86dd', l='ServerLevel[world]', x=169.50, y=63.06, z=119.51, cpos=[10, 7], tl=162514, v=true] died, message: 'Librarian suffocated in a wall'
+[21:53:50] [Server thread/INFO]: Villager Villager['Librarian'/63723, uuid='91c71801-d5a5-423b-bdec-3a7d45d3e143', l='ServerLevel[world]', x=169.50, y=63.06, z=119.51, cpos=[10, 7], tl=611821, v=true] died, message: 'Librarian suffocated in a wall'
+[21:54:47] [Server thread/INFO]: Villager Villager['Librarian'/63727, uuid='4457002e-50eb-401a-bf8e-ff95c6ab0eb0', l='ServerLevel[world]', x=169.50, y=63.06, z=119.51, cpos=[10, 7], tl=711665, v=true] died, message: 'Librarian suffocated in a wall'
+[21:56:13] [Server thread/INFO]: Villager Villager['Librarian'/63716, uuid='7b4be114-0a9e-4657-b83d-5ca5ae73fac9', l='ServerLevel[world]', x=169.50, y=63.06, z=119.51, cpos=[10, 7], tl=766426, v=true] died, message: 'Librarian suffocated in a wall'
+[21:56:31] [Server thread/INFO]: Villager Villager['Librarian'/63710, uuid='a1b0e8eb-c93a-4d7c-a934-c2be395a573b', l='ServerLevel[world]', x=169.50, y=63.06, z=119.51, cpos=[10, 7], tl=220382, v=true] died, message: 'Librarian suffocated in a wall'
+[21:56:59] [Server thread/INFO]: Villager Villager['Librarian'/63704, uuid='9624c3a0-e4ca-47e0-8e6c-d3bc073f02e7', l='ServerLevel[world]', x=169.50, y=63.06, z=119.51, cpos=[10, 7], tl=320216, v=true] died, message: 'Librarian suffocated in a wall'
+[21:57:19] [Server thread/INFO]: Villager Villager['Librarian'/63726, uuid='5ec32892-c19c-4dec-9ca8-447a65fc6369', l='ServerLevel[world]', x=169.50, y=63.06, z=119.51, cpos=[10, 7], tl=309363, v=true] died, message: 'Librarian suffocated in a wall'
+[22:10:53] [Server thread/INFO]: Villager Villager['Librarian'/63722, uuid='67d749af-7365-4609-8b70-41c75ef9c02f', l='ServerLevel[world]', x=169.50, y=63.06, z=119.51, cpos=[10, 7], tl=51664, v=true] died, message: 'Librarian suffocated in a wall'
+[23:01:19] [Server thread/INFO]: Nhieeee lost connection: Disconnected
+[23:01:19] [Server thread/INFO]: Nhieeee left the game
