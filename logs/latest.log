@@ -1,10 +1,2 @@
-[00:18:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4551ms or 91 ticks behind
-[00:45:35] [Server thread/INFO]: sNeto99 fell from a high place
-[00:48:14] [Server thread/WARN]: sNeto99 moved too quickly! 9.75864312609707,2.0244240882136815,2.041286840132443
-[01:04:42] [Server thread/INFO]: sNeto99 lost connection: Disconnected
-[01:04:42] [Server thread/INFO]: sNeto99 left the game
-[05:16:56] [User Authenticator #17/INFO]: UUID of player _Dieguez_ is ef12e6ff-cd2a-3ce2-8dc7-a153e9ec0e01
-[05:16:57] [Server thread/INFO]: _Dieguez_ joined the game
-[05:16:57] [Server thread/INFO]: _Dieguez_[/179.89.229.131:64350] logged in with entity id 120325 at ([world]272.6586772874032, 73.0, 68.08225672285883)
-[05:24:30] [Server thread/INFO]: _Dieguez_ lost connection: Timed out
-[05:24:30] [Server thread/INFO]: _Dieguez_ left the game
+[00:10:47] [Server thread/INFO]: Nhieeee lost connection: Timed out
+[00:10:47] [Server thread/INFO]: Nhieeee left the game
