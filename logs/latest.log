@@ -1,134 +1,42 @@
-[00:10:47] [Server thread/INFO]: Nhieeee lost connection: Timed out
-[00:10:47] [Server thread/INFO]: Nhieeee left the game
-[07:22:24] [User Authenticator #21/INFO]: UUID of player _Dieguez_ is ef12e6ff-cd2a-3ce2-8dc7-a153e9ec0e01
-[07:22:26] [Server thread/INFO]: _Dieguez_ joined the game
-[07:22:26] [Server thread/INFO]: _Dieguez_[/179.89.229.131:54045] logged in with entity id 141479 at ([world]272.8152679794799, 110.0, 33.65897710635846)
-[07:35:37] [Server thread/INFO]: _Dieguez_ lost connection: Disconnected
-[07:35:37] [Server thread/INFO]: _Dieguez_ left the game
-[07:54:35] [User Authenticator #22/INFO]: UUID of player _Dieguez_ is ef12e6ff-cd2a-3ce2-8dc7-a153e9ec0e01
-[07:54:35] [Server thread/INFO]: _Dieguez_ joined the game
-[07:54:35] [Server thread/INFO]: _Dieguez_[/179.89.229.131:55445] logged in with entity id 142877 at ([world]168.69999998807907, 64.0, 25.30000001192093)
-[07:57:19] [Server thread/INFO]: _Dieguez_ lost connection: Disconnected
-[07:57:19] [Server thread/INFO]: _Dieguez_ left the game
-[11:45:05] [User Authenticator #23/INFO]: UUID of player Nhieeee is 58ccd84c-d0e8-3a16-a47c-a1a69881d8be
-[11:45:07] [Server thread/INFO]: Nhieeee joined the game
-[11:45:07] [Server thread/INFO]: Nhieeee[/179.89.229.131:59326] logged in with entity id 143727 at ([world]-190.90803711948175, 99.0, 145.49977501674596)
-[11:45:32] [Server thread/INFO]: Nhieeee lost connection: Disconnected
-[11:45:32] [Server thread/INFO]: Nhieeee left the game
-[11:58:33] [User Authenticator #24/INFO]: UUID of player Nhieeee is 58ccd84c-d0e8-3a16-a47c-a1a69881d8be
-[11:58:34] [Server thread/INFO]: Nhieeee joined the game
-[11:58:34] [Server thread/INFO]: Nhieeee[/179.89.229.131:59785] logged in with entity id 143917 at ([world]-179.55137447386358, 88.5, 182.8616145358121)
-[12:01:19] [User Authenticator #25/INFO]: UUID of player _Dieguez_ is ef12e6ff-cd2a-3ce2-8dc7-a153e9ec0e01
-[12:01:20] [Server thread/INFO]: _Dieguez_ joined the game
-[12:01:20] [Server thread/INFO]: _Dieguez_[/179.89.229.131:51438] logged in with entity id 144357 at ([world]119.30877180332143, 68.0, 219.69028357375248)
-[12:07:29] [Server thread/INFO]: _Dieguez_ lost connection: Disconnected
-[12:07:29] [Server thread/INFO]: _Dieguez_ left the game
-[12:46:24] [Server thread/INFO]: Nhieeee lost connection: Disconnected
-[12:46:24] [Server thread/INFO]: Nhieeee left the game
-[12:47:12] [User Authenticator #26/INFO]: UUID of player _Dieguez_ is ef12e6ff-cd2a-3ce2-8dc7-a153e9ec0e01
-[12:47:13] [Server thread/INFO]: _Dieguez_ joined the game
-[12:47:13] [Server thread/INFO]: _Dieguez_[/179.89.229.131:57604] logged in with entity id 149550 at ([world]4.699999988079071, -54.125, -85.69700554849479)
-[14:08:54] [Server thread/INFO]: _Dieguez_ lost connection: Disconnected
-[14:08:54] [Server thread/INFO]: _Dieguez_ left the game
-[18:37:50] [User Authenticator #27/INFO]: UUID of player Nhieeee is 58ccd84c-d0e8-3a16-a47c-a1a69881d8be
-[18:37:51] [Server thread/INFO]: Nhieeee joined the game
-[18:37:51] [Server thread/INFO]: Nhieeee[/179.228.148.109:60517] logged in with entity id 159131 at ([world]144.09238859367147, 54.0, 91.26815338475676)
-[21:20:01] [User Authenticator #28/INFO]: UUID of player _Dieguez_ is ef12e6ff-cd2a-3ce2-8dc7-a153e9ec0e01
-[21:20:02] [Server thread/INFO]: _Dieguez_ joined the game
-[21:20:02] [Server thread/INFO]: _Dieguez_[/152.249.108.219:56511] logged in with entity id 179786 at ([world]338.30000001192093, 81.0, 95.49894161976219)
-[21:20:16] [Async Chat Thread - #17/INFO]: [Not Secure] <_Dieguez_> Opa
-[21:20:27] [Async Chat Thread - #17/INFO]: [Not Secure] <Nhieeee> salve
-[21:22:38] [Async Chat Thread - #18/INFO]: [Not Secure] <_Dieguez_> Tem pedra ai?
-[21:22:43] [Async Chat Thread - #18/INFO]: [Not Secure] <Nhieeee> um pouco so
-[21:22:49] [Async Chat Thread - #18/INFO]: [Not Secure] <_Dieguez_> Defina um pouco
-[21:22:57] [Async Chat Thread - #18/INFO]: [Not Secure] <Nhieeee> uns 6 pack de 64
-[21:23:03] [Async Chat Thread - #18/INFO]: [Not Secure] <_Dieguez_> Ta bom
-[21:23:09] [Async Chat Thread - #18/INFO]: [Not Secure] <_Dieguez_> Posso ir buscar? KKKKKK
-[21:23:13] [Async Chat Thread - #18/INFO]: [Not Secure] <Nhieeee> sim sr
-[21:23:19] [Async Chat Thread - #18/INFO]: [Not Secure] <_Dieguez_> Excelente, jaja to ai
-[21:25:49] [Async Chat Thread - #20/INFO]: [Not Secure] <_Dieguez_> Ou, foi vc q cavou esse caminho aq?
-[21:25:54] [Async Chat Thread - #21/INFO]: [Not Secure] <Nhieeee> s
-[21:25:58] [Async Chat Thread - #21/INFO]: [Not Secure] <Nhieeee> mas pode fechar
-[21:26:07] [Async Chat Thread - #21/INFO]: [Not Secure] <_Dieguez_> Pdp
-[21:26:17] [Async Chat Thread - #21/INFO]: [Not Secure] <_Dieguez_> Ia falar da questão da subida
-[21:26:23] [Async Chat Thread - #21/INFO]: [Not Secure] <_Dieguez_> N da pra subir com barco
-[21:26:26] [Async Chat Thread - #21/INFO]: [Not Secure] <Nhieeee> s
-[21:26:54] [Async Chat Thread - #21/INFO]: [Not Secure] <_Dieguez_> Qq aconteceu com a montanha do lado da sua casa?
-[21:27:00] [Async Chat Thread - #21/INFO]: [Not Secure] <Nhieeee> to tirando ela
-[21:27:03] [Async Chat Thread - #21/INFO]: [Not Secure] <_Dieguez_> Entendi
-[21:27:05] [Async Chat Thread - #21/INFO]: [Not Secure] <_Dieguez_> Boa sorte
-[21:27:16] [Async Chat Thread - #21/INFO]: [Not Secure] <_Dieguez_> Pega as pedra com slik touch KKK
-[21:27:26] [Async Chat Thread - #21/INFO]: [Not Secure] <Nhieeee> depois vo fazer uma pick com
-[21:27:45] [Async Chat Thread - #21/INFO]: [Not Secure] <_Dieguez_> Quer q eu faça por vc? Como pagamento pelas pedra
-[21:27:54] [Async Chat Thread - #21/INFO]: [Not Secure] <Nhieeee> ce q sabe
-[21:28:00] [Async Chat Thread - #21/INFO]: [Not Secure] <Nhieeee> se fizer agradeço
-[21:28:06] [Async Chat Thread - #20/INFO]: [Not Secure] <_Dieguez_> Eu faço
-[21:28:12] [Async Chat Thread - #20/INFO]: [Not Secure] <_Dieguez_> Me da uns min
-[21:28:14] [Async Chat Thread - #20/INFO]: [Not Secure] <_Dieguez_> Ja vorto
-[21:28:40] [Async Chat Thread - #20/INFO]: [Not Secure] <Nhieeee> dale
-[21:29:54] [Async Chat Thread - #22/INFO]: [Not Secure] <Nhieeee> consegue durmir
-[21:29:56] [Async Chat Thread - #22/INFO]: [Not Secure] <Nhieeee> ?
-[21:30:03] [Async Chat Thread - #22/INFO]: [Not Secure] <_Dieguez_> Daq 30s
-[21:30:08] [Async Chat Thread - #22/INFO]: [Not Secure] <_Dieguez_> To no carrinho
-[21:30:11] [Async Chat Thread - #22/INFO]: [Not Secure] <Nhieeee> safe
-[21:30:19] [Async Chat Thread - #23/INFO]: [Not Secure] <_Dieguez_> Pronto
-[21:30:59] [Async Chat Thread - #23/INFO]: [Not Secure] <_Dieguez_> Só preciso pegar lvl30 pra encantar a pickaxe
-[21:31:08] [Async Chat Thread - #23/INFO]: [Not Secure] <Nhieeee> dale
-[21:36:43] [Async Chat Thread - #24/INFO]: [Not Secure] <_Dieguez_> Peguei nvl 30
-[21:36:52] [Async Chat Thread - #24/INFO]: [Not Secure] <Nhieeee> boa
-[21:36:55] [Async Chat Thread - #24/INFO]: [Not Secure] <_Dieguez_> Se eu encantar a picareta e vier fortune, eu vou ficar mt tristre
-[21:37:06] [Async Chat Thread - #25/INFO]: [Not Secure] <Nhieeee> kkkkkkkkk
-[21:40:56] [Async Chat Thread - #26/INFO]: [Not Secure] <Nhieeee> conmsegue durmir?
-[21:41:02] [Async Chat Thread - #26/INFO]: [Not Secure] <_Dieguez_> Consigo kitar
-[21:41:03] [Server thread/INFO]: _Dieguez_ lost connection: Disconnected
-[21:41:03] [Server thread/INFO]: _Dieguez_ left the game
-[21:41:14] [User Authenticator #29/INFO]: UUID of player _Dieguez_ is ef12e6ff-cd2a-3ce2-8dc7-a153e9ec0e01
-[21:41:14] [Server thread/INFO]: _Dieguez_ joined the game
-[21:41:14] [Server thread/INFO]: _Dieguez_[/152.249.108.219:57068] logged in with entity id 186083 at ([world]-6.425399632813302, -53.0, -85.3712351741487)
-[21:41:17] [Async Chat Thread - #27/INFO]: [Not Secure] <_Dieguez_> Deu?
-[21:41:18] [Async Chat Thread - #26/INFO]: [Not Secure] <Nhieeee> s
-[21:41:20] [Async Chat Thread - #26/INFO]: [Not Secure] <Nhieeee> ty
-[21:46:21] [Async Chat Thread - #29/INFO]: [Not Secure] <_Dieguez_> Peguei 30 dnv
-[21:46:25] [Async Chat Thread - #29/INFO]: [Not Secure] <Nhieeee> agora vai
-[21:46:37] [Async Chat Thread - #29/INFO]: [Not Secure] <_Dieguez_> Se for fortune dnv eu vou chorar
-[21:46:55] [Async Chat Thread - #29/INFO]: [Not Secure] <_Dieguez_> Até eu pegar o silk touch vc ja quebou a montanha
-[21:47:07] [Async Chat Thread - #29/INFO]: [Not Secure] <Nhieeee> kkkk
-[21:48:45] [Async Chat Thread - #30/INFO]: [Not Secure] <_Dieguez_> Ou, qnt custa esse silk touch ai?
-[21:48:50] [Async Chat Thread - #30/INFO]: [Not Secure] <Nhieeee> ou uns 13
-[21:48:55] [Async Chat Thread - #30/INFO]: [Not Secure] <_Dieguez_> E livros?
-[21:49:00] [Async Chat Thread - #30/INFO]: [Not Secure] <Nhieeee> 1 so se pa
-[21:49:12] [Async Chat Thread - #30/INFO]: [Not Secure] <Nhieeee> mas posso ta enganado
-[21:49:18] [Async Chat Thread - #30/INFO]: [Not Secure] <_Dieguez_> Pqp, roubaram minhas cana
-[21:49:21] [Async Chat Thread - #30/INFO]: [Not Secure] <Nhieeee> vo olhar aqui
-[21:49:30] [Async Chat Thread - #30/INFO]: [Not Secure] <Nhieeee> tem cana aqui
-[21:49:59] [Async Chat Thread - #30/INFO]: [Not Secure] <Nhieeee> ou 16 o silk
-[21:51:36] [Async Chat Thread - #32/INFO]: [Not Secure] <Nhieeee> dorme ai
-[21:51:44] [Async Chat Thread - #32/INFO]: [Not Secure] <_Dieguez_> Durmi
-[21:52:52] [Async Chat Thread - #34/INFO]: [Not Secure] <_Dieguez_> Tu tem 2 emerald?
-[21:52:58] [Async Chat Thread - #34/INFO]: [Not Secure] <Nhieeee> s
-[21:53:12] [Async Chat Thread - #34/INFO]: [Not Secure] <_Dieguez_> Pode me emprestar por tempo indeterminado?
-[21:53:21] [Async Chat Thread - #34/INFO]: [Not Secure] <Nhieeee> ou pega aqui
-[21:53:46] [Async Chat Thread - #34/INFO]: [Not Secure] <Nhieeee> onde ce ta
-[21:53:52] [Async Chat Thread - #35/INFO]: [Not Secure] <_Dieguez_> Indo pra ai
-[21:53:56] [Async Chat Thread - #34/INFO]: [Not Secure] <Nhieeee> vem no villager
-[21:54:05] [Async Chat Thread - #34/INFO]: [Not Secure] <Nhieeee> ta no bau
-[21:54:06] [Async Chat Thread - #34/INFO]: [Not Secure] <_Dieguez_> No teu?
-[21:54:11] [Async Chat Thread - #34/INFO]: [Not Secure] <Nhieeee> s
-[21:54:13] [Async Chat Thread - #35/INFO]: [Not Secure] <_Dieguez_> oK
-[21:55:13] [Async Chat Thread - #35/INFO]: [Not Secure] <_Dieguez_> To aq
-[21:55:18] [Async Chat Thread - #35/INFO]: [Not Secure] <Nhieeee> ta no bau
-[21:55:40] [Async Chat Thread - #35/INFO]: [Not Secure] <_Dieguez_> Ok
-[21:55:50] [Async Chat Thread - #36/INFO]: [Not Secure] <_Dieguez_> Q dor
-[21:55:59] [Async Chat Thread - #35/INFO]: [Not Secure] <_Dieguez_> Ver essas pedras serem desperdiçadas
-[21:58:27] [Async Chat Thread - #37/INFO]: [Not Secure] <Nhieeee> deu bom a pick?
-[21:58:32] [Async Chat Thread - #37/INFO]: [Not Secure] <_Dieguez_> Esta no processo
-[21:58:57] [Async Chat Thread - #37/INFO]: [Not Secure] <Nhieeee> demoro eu vo da uma saida
-[21:59:01] [Async Chat Thread - #37/INFO]: [Not Secure] <Nhieeee> qlq coisa poe em um bau aqui
-[21:59:05] [Async Chat Thread - #37/INFO]: [Not Secure] <Nhieeee> depois continuo
-[21:59:17] [Async Chat Thread - #38/INFO]: [Not Secure] <Nhieeee> te ja
-[21:59:19] [Server thread/INFO]: Nhieeee lost connection: Disconnected
-[21:59:19] [Server thread/INFO]: Nhieeee left the game
-[21:59:22] [Async Chat Thread - #38/INFO]: [Not Secure] <_Dieguez_> Ok
-[22:22:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6831ms or 136 ticks behind
-[22:38:13] [Server thread/INFO]: _Dieguez_ lost connection: Disconnected
-[22:38:13] [Server thread/INFO]: _Dieguez_ left the game
+[07:02:58] [User Authenticator #30/INFO]: UUID of player _Dieguez_ is ef12e6ff-cd2a-3ce2-8dc7-a153e9ec0e01
+[07:02:59] [Server thread/INFO]: _Dieguez_ joined the game
+[07:03:00] [Server thread/INFO]: _Dieguez_[/186.210.80.20:65246] logged in with entity id 194608 at ([world]173.69999998807907, 74.0, 39.30000001192093)
+[07:29:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3032ms or 60 ticks behind
+[07:32:51] [Server thread/INFO]: _Dieguez_ lost connection: Disconnected
+[07:32:52] [Server thread/INFO]: _Dieguez_ left the game
+[12:03:59] [User Authenticator #31/INFO]: UUID of player Nhieeee is 58ccd84c-d0e8-3a16-a47c-a1a69881d8be
+[12:04:00] [Server thread/INFO]: Nhieeee joined the game
+[12:04:01] [Server thread/INFO]: Nhieeee[/186.210.80.20:54107] logged in with entity id 199245 at ([world]-189.42836722201284, 99.0, 173.69595691557313)
+[12:06:56] [Server thread/WARN]: Oak Boat (vehicle of Nhieeee) moved too quickly! 32.74187352633364,0.0,0.254756692678626
+[12:06:56] [Server thread/WARN]: Oak Boat (vehicle of Nhieeee) moved too quickly! 33.985678412760336,0.0,0.2648046448903756
+[12:06:56] [Server thread/WARN]: Oak Boat (vehicle of Nhieeee) moved too quickly! 35.204607225182194,0.0,0.2746516382495372
+[12:06:56] [Server thread/WARN]: Oak Boat (vehicle of Nhieeee) moved too quickly! 36.399157484604835,0.0,0.2843016919293291
+[12:06:56] [Server thread/WARN]: Oak Boat (vehicle of Nhieeee) moved too quickly! 37.569816761623265,0.0,0.2937587447195824
+[12:06:56] [Server thread/WARN]: Oak Boat (vehicle of Nhieeee) moved too quickly! 38.71706287542988,0.0,0.3030266566344153
+[12:06:56] [Server thread/WARN]: Oak Boat (vehicle of Nhieeee) moved too quickly! 39.84136408884235,0.0,0.31210921048773344
+[12:06:56] [Server thread/WARN]: Oak Boat (vehicle of Nhieeee) moved too quickly! 40.94317929943091,0.0,0.321010113437211
+[12:06:56] [Server thread/WARN]: Oak Boat (vehicle of Nhieeee) moved too quickly! 42.02295822682316,0.0,0.3297329984974624
+[12:06:58] [Server thread/WARN]: Oak Boat (vehicle of Nhieeee) moved too quickly! 20.51783935430602,0.0,0.16575129392887789
+[12:06:58] [Server thread/WARN]: Oak Boat (vehicle of Nhieeee) moved too quickly! 21.083517681964423,0.0,0.17032106919310763
+[12:06:58] [Server thread/WARN]: Oak Boat (vehicle of Nhieeee) moved too quickly! 21.63788245385912,0.0,0.17479944903922728
+[12:06:58] [Server thread/WARN]: Oak Boat (vehicle of Nhieeee) moved too quickly! 22.181159940889586,0.0,0.17918826137383803
+[12:06:58] [Server thread/WARN]: Oak Boat (vehicle of Nhieeee) moved too quickly! 22.713571888541637,0.0,0.18348929754546361
+[12:06:58] [Server thread/WARN]: Oak Boat (vehicle of Nhieeee) moved too quickly! 23.235335607395598,0.0,0.1877043130756988
+[12:06:58] [Server thread/WARN]: Oak Boat (vehicle of Nhieeee) moved too quickly! 23.746664061824333,0.0,0.19183502837572064
+[12:06:58] [Server thread/WARN]: Oak Boat (vehicle of Nhieeee) moved too quickly! 24.24776595691732,0.0,0.19588312944853215
+[12:06:58] [Server thread/WARN]: Oak Boat (vehicle of Nhieeee) moved too quickly! 24.73884582366621,0.0,0.19985026857710864
+[12:06:58] [Server thread/WARN]: Oak Boat (vehicle of Nhieeee) moved too quickly! 25.220104102446726,0.0,0.20373806499875968
+[12:06:58] [Server thread/WARN]: Oak Boat (vehicle of Nhieeee) moved too quickly! 25.691737224830902,0.0,0.2075481055661328
+[12:37:53] [Server thread/INFO]: Nhieeee lost connection: Disconnected
+[12:37:53] [Server thread/INFO]: Nhieeee left the game
+[18:45:58] [User Authenticator #32/INFO]: UUID of player _Dieguez_ is ef12e6ff-cd2a-3ce2-8dc7-a153e9ec0e01
+[18:45:59] [Server thread/INFO]: _Dieguez_ joined the game
+[18:45:59] [Server thread/INFO]: _Dieguez_[/152.249.108.219:59629] logged in with entity id 203337 at ([world]261.30000001192093, 72.0, 68.30000001192093)
+[19:31:57] [Server thread/INFO]: _Dieguez_ lost connection: Disconnected
+[19:31:57] [Server thread/INFO]: _Dieguez_ left the game
+[20:49:58] [User Authenticator #33/INFO]: UUID of player _Dieguez_ is ef12e6ff-cd2a-3ce2-8dc7-a153e9ec0e01
+[20:49:59] [Server thread/INFO]: _Dieguez_ joined the game
+[20:49:59] [Server thread/INFO]: _Dieguez_[/152.249.108.219:62996] logged in with entity id 208215 at ([world]159.8626416774443, 74.0, 41.07105315146646)
+[20:55:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2549ms or 50 ticks behind
+[21:52:03] [Server thread/INFO]: _Dieguez_ lost connection: Disconnected
+[21:52:03] [Server thread/INFO]: _Dieguez_ left the game
