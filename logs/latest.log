@@ -1,42 +1,21 @@
-[07:02:58] [User Authenticator #30/INFO]: UUID of player _Dieguez_ is ef12e6ff-cd2a-3ce2-8dc7-a153e9ec0e01
-[07:02:59] [Server thread/INFO]: _Dieguez_ joined the game
-[07:03:00] [Server thread/INFO]: _Dieguez_[/186.210.80.20:65246] logged in with entity id 194608 at ([world]173.69999998807907, 74.0, 39.30000001192093)
-[07:29:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3032ms or 60 ticks behind
-[07:32:51] [Server thread/INFO]: _Dieguez_ lost connection: Disconnected
-[07:32:52] [Server thread/INFO]: _Dieguez_ left the game
-[12:03:59] [User Authenticator #31/INFO]: UUID of player Nhieeee is 58ccd84c-d0e8-3a16-a47c-a1a69881d8be
-[12:04:00] [Server thread/INFO]: Nhieeee joined the game
-[12:04:01] [Server thread/INFO]: Nhieeee[/186.210.80.20:54107] logged in with entity id 199245 at ([world]-189.42836722201284, 99.0, 173.69595691557313)
-[12:06:56] [Server thread/WARN]: Oak Boat (vehicle of Nhieeee) moved too quickly! 32.74187352633364,0.0,0.254756692678626
-[12:06:56] [Server thread/WARN]: Oak Boat (vehicle of Nhieeee) moved too quickly! 33.985678412760336,0.0,0.2648046448903756
-[12:06:56] [Server thread/WARN]: Oak Boat (vehicle of Nhieeee) moved too quickly! 35.204607225182194,0.0,0.2746516382495372
-[12:06:56] [Server thread/WARN]: Oak Boat (vehicle of Nhieeee) moved too quickly! 36.399157484604835,0.0,0.2843016919293291
-[12:06:56] [Server thread/WARN]: Oak Boat (vehicle of Nhieeee) moved too quickly! 37.569816761623265,0.0,0.2937587447195824
-[12:06:56] [Server thread/WARN]: Oak Boat (vehicle of Nhieeee) moved too quickly! 38.71706287542988,0.0,0.3030266566344153
-[12:06:56] [Server thread/WARN]: Oak Boat (vehicle of Nhieeee) moved too quickly! 39.84136408884235,0.0,0.31210921048773344
-[12:06:56] [Server thread/WARN]: Oak Boat (vehicle of Nhieeee) moved too quickly! 40.94317929943091,0.0,0.321010113437211
-[12:06:56] [Server thread/WARN]: Oak Boat (vehicle of Nhieeee) moved too quickly! 42.02295822682316,0.0,0.3297329984974624
-[12:06:58] [Server thread/WARN]: Oak Boat (vehicle of Nhieeee) moved too quickly! 20.51783935430602,0.0,0.16575129392887789
-[12:06:58] [Server thread/WARN]: Oak Boat (vehicle of Nhieeee) moved too quickly! 21.083517681964423,0.0,0.17032106919310763
-[12:06:58] [Server thread/WARN]: Oak Boat (vehicle of Nhieeee) moved too quickly! 21.63788245385912,0.0,0.17479944903922728
-[12:06:58] [Server thread/WARN]: Oak Boat (vehicle of Nhieeee) moved too quickly! 22.181159940889586,0.0,0.17918826137383803
-[12:06:58] [Server thread/WARN]: Oak Boat (vehicle of Nhieeee) moved too quickly! 22.713571888541637,0.0,0.18348929754546361
-[12:06:58] [Server thread/WARN]: Oak Boat (vehicle of Nhieeee) moved too quickly! 23.235335607395598,0.0,0.1877043130756988
-[12:06:58] [Server thread/WARN]: Oak Boat (vehicle of Nhieeee) moved too quickly! 23.746664061824333,0.0,0.19183502837572064
-[12:06:58] [Server thread/WARN]: Oak Boat (vehicle of Nhieeee) moved too quickly! 24.24776595691732,0.0,0.19588312944853215
-[12:06:58] [Server thread/WARN]: Oak Boat (vehicle of Nhieeee) moved too quickly! 24.73884582366621,0.0,0.19985026857710864
-[12:06:58] [Server thread/WARN]: Oak Boat (vehicle of Nhieeee) moved too quickly! 25.220104102446726,0.0,0.20373806499875968
-[12:06:58] [Server thread/WARN]: Oak Boat (vehicle of Nhieeee) moved too quickly! 25.691737224830902,0.0,0.2075481055661328
-[12:37:53] [Server thread/INFO]: Nhieeee lost connection: Disconnected
-[12:37:53] [Server thread/INFO]: Nhieeee left the game
-[18:45:58] [User Authenticator #32/INFO]: UUID of player _Dieguez_ is ef12e6ff-cd2a-3ce2-8dc7-a153e9ec0e01
-[18:45:59] [Server thread/INFO]: _Dieguez_ joined the game
-[18:45:59] [Server thread/INFO]: _Dieguez_[/152.249.108.219:59629] logged in with entity id 203337 at ([world]261.30000001192093, 72.0, 68.30000001192093)
-[19:31:57] [Server thread/INFO]: _Dieguez_ lost connection: Disconnected
-[19:31:57] [Server thread/INFO]: _Dieguez_ left the game
-[20:49:58] [User Authenticator #33/INFO]: UUID of player _Dieguez_ is ef12e6ff-cd2a-3ce2-8dc7-a153e9ec0e01
-[20:49:59] [Server thread/INFO]: _Dieguez_ joined the game
-[20:49:59] [Server thread/INFO]: _Dieguez_[/152.249.108.219:62996] logged in with entity id 208215 at ([world]159.8626416774443, 74.0, 41.07105315146646)
-[20:55:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2549ms or 50 ticks behind
-[21:52:03] [Server thread/INFO]: _Dieguez_ lost connection: Disconnected
-[21:52:03] [Server thread/INFO]: _Dieguez_ left the game
+[12:04:43] [User Authenticator #34/INFO]: UUID of player Nhieeee is 58ccd84c-d0e8-3a16-a47c-a1a69881d8be
+[12:04:44] [Server thread/INFO]: Nhieeee joined the game
+[12:04:44] [Server thread/INFO]: Nhieeee[/191.54.97.71:59071] logged in with entity id 215663 at ([world]-161.31225358436072, 68.0, 208.06151924232864)
+[12:23:51] [Server thread/INFO]: Nhieeee lost connection: Disconnected
+[12:23:51] [Server thread/INFO]: Nhieeee left the game
+[12:38:27] [User Authenticator #35/INFO]: UUID of player Nhieeee is 58ccd84c-d0e8-3a16-a47c-a1a69881d8be
+[12:38:28] [Server thread/INFO]: Nhieeee joined the game
+[12:38:28] [Server thread/INFO]: Nhieeee[/191.54.97.71:64405] logged in with entity id 218880 at ([world]-154.31849183376488, 95.0, 167.6640553427014)
+[12:40:39] [User Authenticator #36/INFO]: UUID of player _Dieguez_ is ef12e6ff-cd2a-3ce2-8dc7-a153e9ec0e01
+[12:40:40] [Server thread/INFO]: _Dieguez_ joined the game
+[12:40:40] [Server thread/INFO]: _Dieguez_[/191.54.97.71:64564] logged in with entity id 219583 at ([world]125.30118988662424, 41.0, 10.7694136600929)
+[12:41:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2639ms or 52 ticks behind
+[13:17:23] [Server thread/INFO]: Nhieeee lost connection: Disconnected
+[13:17:23] [Server thread/INFO]: Nhieeee left the game
+[13:32:45] [Server thread/INFO]: _Dieguez_ lost connection: Disconnected
+[13:32:45] [Server thread/INFO]: _Dieguez_ left the game
+[13:42:16] [User Authenticator #37/INFO]: UUID of player Nhieeee is 58ccd84c-d0e8-3a16-a47c-a1a69881d8be
+[13:42:17] [Server thread/INFO]: Nhieeee joined the game
+[13:42:17] [Server thread/INFO]: Nhieeee[/191.54.97.71:56312] logged in with entity id 227701 at ([world]-6.509793571289994, -52.5, -86.1913039063783)
+[14:09:37] [Server thread/INFO]: Nhieeee lost connection: Disconnected
+[14:09:37] [Server thread/INFO]: Nhieeee left the game
