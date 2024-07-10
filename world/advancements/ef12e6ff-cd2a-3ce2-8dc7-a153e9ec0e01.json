@@ -329,10 +329,12 @@
       "minecraft:phantom": "2024-06-07 18:26:02 -0300",
       "minecraft:witch": "2024-06-08 00:34:32 -0300",
       "minecraft:wither_skeleton": "2024-06-12 13:50:41 -0300",
+      "minecraft:ravager": "2024-07-09 13:53:49 -0300",
       "minecraft:ghast": "2024-06-12 13:54:49 -0300",
       "minecraft:hoglin": "2024-06-07 07:41:51 -0300",
       "minecraft:cave_spider": "2024-06-07 07:14:48 -0300",
       "minecraft:piglin": "2024-06-07 07:41:57 -0300",
+      "minecraft:vindicator": "2024-07-09 13:52:46 -0300",
       "minecraft:enderman": "2024-06-05 11:59:07 -0300",
       "minecraft:magma_cube": "2024-06-20 07:39:25 -0300",
       "minecraft:spider": "2024-06-05 17:15:48 -0300",
@@ -3586,6 +3588,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
     "criteria": {
       "has_polished_deepslate": "2024-07-01 21:49:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2024-07-09 13:54:10 -0300"
     },
     "done": true
   },
