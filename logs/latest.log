@@ -1,17 +1,12 @@
-[00:35:21] [Server thread/INFO]: sNeto99 lost connection: Disconnected
-[00:35:21] [Server thread/INFO]: sNeto99 left the game
-[02:35:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3397ms or 67 ticks behind
-[20:53:08] [User Authenticator #4/INFO]: UUID of player sNeto99 is 0d725e62-b558-371e-8d02-0dc3f0e23568
-[20:53:12] [Server thread/INFO]: sNeto99 joined the game
-[20:53:12] [Server thread/INFO]: sNeto99[/187.23.89.61:53568] logged in with entity id 14639 at ([world]361.64032600608783, 184.0, -492.603713396677)
-[23:22:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2847ms or 56 ticks behind
-[23:25:43] [Server thread/INFO]: sNeto99 has made the advancement [Hot Stuff]
-[23:46:43] [Server thread/INFO]: sNeto99 fell from a high place
-[23:47:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3485ms or 69 ticks behind
-[23:51:12] [Server thread/INFO]: sNeto99 lost connection: Disconnected
-[23:51:12] [Server thread/INFO]: sNeto99 left the game
-[23:51:20] [User Authenticator #5/INFO]: UUID of player sNeto99 is 0d725e62-b558-371e-8d02-0dc3f0e23568
-[23:51:22] [Server thread/INFO]: sNeto99 joined the game
-[23:51:22] [Server thread/INFO]: sNeto99[/187.23.89.61:54657] logged in with entity id 30455 at ([world]360.5, 184.0, -491.5)
-[23:53:17] [Server thread/INFO]: sNeto99 lost connection: Disconnected
-[23:53:17] [Server thread/INFO]: sNeto99 left the game
+[12:13:20] [User Authenticator #6/INFO]: UUID of player sNeto99 is 0d725e62-b558-371e-8d02-0dc3f0e23568
+[12:13:22] [Server thread/INFO]: sNeto99 joined the game
+[12:13:22] [Server thread/INFO]: sNeto99[/179.167.39.243:51915] logged in with entity id 30728 at ([world]358.71178702778036, 184.0, -494.2677133668546)
+[12:17:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3725ms or 74 ticks behind
+[12:17:05] [Server thread/WARN]: sNeto99 moved too quickly! -1.9185799863808484,10.0,-1.5265455149648801
+[12:18:48] [Server thread/INFO]: sNeto99 lost connection: Disconnected
+[12:18:48] [Server thread/INFO]: sNeto99 left the game
+[13:10:50] [User Authenticator #7/INFO]: UUID of player sNeto99 is 0d725e62-b558-371e-8d02-0dc3f0e23568
+[13:10:51] [Server thread/INFO]: sNeto99 joined the game
+[13:10:51] [Server thread/INFO]: sNeto99[/179.167.39.243:52177] logged in with entity id 31286 at ([world]359.5358961650733, 184.0, -492.78899105717727)
+[13:12:12] [Server thread/INFO]: sNeto99 lost connection: Disconnected
+[13:12:12] [Server thread/INFO]: sNeto99 left the game
