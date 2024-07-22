@@ -1,4 +1,4 @@
-[05:10:52] [Yggdrasil Key Fetcher/ERROR]: Failed to request yggdrasil public key
+[02:30:52] [Yggdrasil Key Fetcher/ERROR]: Failed to request yggdrasil public key
 com.mojang.authlib.exceptions.MinecraftClientException: Failed to read from https://api.minecraftservices.com/publickeys due to api.minecraftservices.com
 	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:108) ~[authlib-6.0.54.jar:?]
 	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:57) ~[authlib-6.0.54.jar:?]
